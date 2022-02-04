@@ -17,11 +17,13 @@ The user should clone the repository from GitHub and download Node. This applica
 
 ## Usage 
 Use inquirer from your command line to answer questions about your project.
-View walk through video here - [click-here](https://watch.screencastify.com/v/6W6LT2CVGx0s1PWwayWI)
+View walk through video here - [here](https://watch.screencastify.com/v/bTttJi0DRkmHIm04Y0hw)
 
 
 
- ![Screencastify](.//assets/img.PNG)
+ ![Screencastify](.//assets/Team-profile-generator.gif)
+
+ ![Rendered-Image](.//assets/img.png)
 
 ## License 
 This project is license under MIT
