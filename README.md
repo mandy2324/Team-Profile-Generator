@@ -23,7 +23,7 @@ View walk through video here - [here](https://watch.screencastify.com/v/bTttJi0D
 
  ![Screencastify](.//assets/Team-profile-generator.gif)
 
- ![Rendered-Image](.//assets/img.png)
+ ![Rendered-Image](.//assets/img.PNG)
 
 ## License 
 This project is license under MIT
